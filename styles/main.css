@@ -44,7 +44,7 @@ body {
 .first-frame__title {
   transform: translate(0);
   font-family: Miratrix, sans-serif;
-  font-size: 8vw;
+  font-size: 7vw;
   background: #000;
   color: #fff;
   position: absolute;

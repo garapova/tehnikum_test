@@ -62,7 +62,7 @@ gsap.timeline({
         scrub: 1,
         pin: true,
         pinSpacing: false,
-        markers: true
+        // markers: true
     }
 })
 .from(".first-frame__circle", {width: 0, height: 0});

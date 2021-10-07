@@ -29,7 +29,7 @@ gsap.timeline({
         pinSpacing: false,
         start: "top top",
         end: "bottom top",
-        scrub: 3,
+        scrub: 1,
         // markers: true
     }
 })
@@ -44,7 +44,7 @@ gsap.timeline({
         trigger: ".first-frame__scroller--first",
         start: `top bottom`,
         end: `bottom bottom`,
-        scrub: 3,
+        scrub: 1,
         // markers: true
     }
 })
@@ -59,7 +59,7 @@ gsap.timeline({
         trigger: ".first-frame__scroller--second",
         start: `top top`,
         end: `bottom top`,
-        scrub: 3,
+        scrub: 1,
         pin: true,
         pinSpacing: false,
         // markers: true
